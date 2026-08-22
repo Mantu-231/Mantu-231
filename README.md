@@ -1,12 +1,17 @@
 # Hi, I'm Mantu Kumar 👋
 
-### Full Stack Developer · Backend · AI/ML · Agentic AI
+### Computer Science Engineer | Software Engineering · Data & Analytics · AI/ML
 
-I'm a Computer Science Engineering student at **GITAM University**, passionate about building practical, reliable, and scalable software.
+I'm a Computer Science Engineering student at **GITAM University** with an interest in **software engineering, data analysis, backend systems, and intelligent applications**.
 
-My interests span **full-stack development, backend engineering, APIs, databases, data analytics, AI/ML, and agentic systems**. I enjoy turning real-world problems into structured software solutions.
+I enjoy solving problems by combining **programming, analytical thinking, data, and software engineering**. My technical foundation includes **Python, Java, SQL, REST APIs, databases, full-stack development, and data analytics**.
+
+I'm also expanding my skills in **AI/ML and agentic systems**, with a focus on building practical solutions that can analyze data, automate workflows, and solve real-world problems.
+
+I'm particularly interested in opportunities across **Software Engineering, Backend Development, Data/Business Analytics, Technology, and AI/ML**.
 
 ---
+
 
 ## 🚀 What I Do
 
