@@ -8,7 +8,7 @@ I enjoy solving problems by combining **programming, analytical thinking, data, 
 
 I'm also expanding my skills in **AI/ML and agentic systems**, with a focus on building practical solutions that can analyze data, automate workflows, and solve real-world problems.
 
-I'm particularly interested in opportunities across **Software Engineering, Backend Development, Data/Business Analytics, Technology, and AI/ML**.
+I'm particularly interested in opportunities across **Software Engineering, Frontend and Backend Development, Data/Business Analytics, Technology, and AI/ML**.
 
 ---
 
