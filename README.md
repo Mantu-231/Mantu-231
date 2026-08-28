@@ -2,7 +2,7 @@
 
 ### Computer Science Engineer | Software Engineering · Data & Analytics · AI/ML
 
-I'm a Computer Science Engineering student at **GITAM University** with an interest in **software engineering, data analysis, backend systems, and intelligent applications**.
+I'm a Computer Science Engineering student at **GITAM University** with an interest in **software engineering, analyst, Full stack developer, data analysis, backend systems, and intelligent applications**.
 
 I enjoy solving problems by combining **programming, analytical thinking, data, and software engineering**. My technical foundation includes **Python, Java, SQL, REST APIs, databases, full-stack development, and data analytics**.
 
