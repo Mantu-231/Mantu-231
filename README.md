@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mantu Kumar 👋</h1>
-<h3 align="center">Final Year CSE Student @ GITAM University · Aspiring SDE / Analyst · Fintech & Product Enthusiast</h3>
+<h3 align="center">Final Year CSE Student @ GITAM University · Class of 2027 · Aspiring SDE / Analyst · Fintech & Product Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mantu-kumar-28311a308"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -9,13 +9,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Batch-2027-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🎓_Class_of-2027-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Open_to-On_Campus_%7C_Off_Campus-brightgreen?style=for-the-badge">
 </p>
 
-I'm a final-year Computer Science Engineering student who learns by building. Every project below is a full working system — backend, database, and UI — not a tutorial clone. Most of them center on **payments, reconciliation, and financial dashboards**, which is the space I want to build my career in (fintech and product companies).
+I'm a final-year Computer Science Engineering student (Class of 2027) who learns by building. Every project below is a full working system — backend, database, and UI — not a tutorial clone. Most of them center on **payments, reconciliation, and financial dashboards**, which is the space I want to build my career in (fintech and product companies).
 
 Actively looking for **New Grad SDE / Software Engineer / Analyst** roles — on-campus or off-campus.
+
+## 🛠️ Skills
+
+**Languages:** `Python` `Java` `SQL` `TypeScript` `JavaScript` `C`
+**Backend:** `FastAPI` `REST APIs` `Java Servlets` `JSP` `JWT / OAuth2` `SQLAlchemy` `JDBC`
+**Frontend:** `React` `Next.js` `Tailwind CSS` `HTML` `CSS`
+**Data & ML:** `Pandas` `scikit-learn` `Streamlit` `Data Analysis`
+**Databases:** `PostgreSQL` `MySQL` `SQLite`
+**Testing & Fundamentals:** `Pytest` `OOP` `DSA` `DBMS`
+**Tools:** `Git` `GitHub` `VS Code` `Apache Tomcat`
 
 ## 📌 Projects
 
@@ -54,7 +64,7 @@ Built frontend interfaces, application logic, validation, responsive design, and
 
 ## 🎓 Education
 
-**B.Tech, Computer Science Engineering** — GITAM University, Visakhapatnam · `2023 – 2027`
+**B.Tech, Computer Science Engineering** — GITAM University, Visakhapatnam · `2023 – 2027` (Class of 2027)
 
 ## 📜 Certifications
 
