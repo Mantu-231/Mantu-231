@@ -36,19 +36,19 @@ An agentic financial reconciliation platform that matches payments against settl
 
 `FastAPI` `PostgreSQL` `SQLAlchemy` `scikit-learn` `React`
 
-### 💰 [Finance Analytics System](https://github.com/Mantu-231/Finance-Analytics-System)
-A full-stack personal finance tracker with JWT authentication, transaction management, and an interactive Streamlit dashboard computing income, expenses, and savings per user.
-
-**Demonstrates:** secure auth (JWT/OAuth2, password hashing), building and testing REST APIs end-to-end, and turning raw transaction data into a usable analytics view.
-
-`Python` `FastAPI` `SQLite` `Streamlit` `Pandas` `Pytest`
-
 ### 💵 [PayFlow — Payment Dashboard](https://github.com/Mantu-231/PayFlow)
 A payment operations dashboard UI — revenue overview, transaction search/filtering by status, and customer management — structured the way real fintech product dashboards are.
 
 **Demonstrates:** frontend architecture for data-heavy interfaces, responsive design, and thinking about a product from the user's (ops team's) point of view, not just the code.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS`
+
+### 💰 [Finance Analytics System](https://github.com/Mantu-231/Finance-Analytics-System)
+A full-stack personal finance tracker with JWT authentication, transaction management, and an interactive Streamlit dashboard computing income, expenses, and savings per user.
+
+**Demonstrates:** secure auth (JWT/OAuth2, password hashing), building and testing REST APIs end-to-end, and turning raw transaction data into a usable analytics view.
+
+`Python` `FastAPI` `SQLite` `Streamlit` `Pandas` `Pytest`
 
 ### 📋 [Complaint Portal System](https://github.com/Mantu-231/ComplaintPortal)
 A complaint management system with separate user and admin flows, secured with session-based auth and role-based access control.
@@ -60,7 +60,7 @@ A complaint management system with separate user and admin flows, secured with s
 ## 💼 Experience
 
 **Full Stack Development Intern** — InlighnX Global Pvt. Ltd. · `Jun 2025 – Jul 2025`
-Built frontend interfaces, application logic, validation, responsive design, and client-side data persistence in a real product codebase.
+Designed and built a responsive personal expense tracker end-to-end, taking ownership of the interface, application logic, and data persistence layer in a live product codebase.
 
 ## 🎓 Education
 
