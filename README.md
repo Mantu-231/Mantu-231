@@ -2,7 +2,6 @@
 <h3 align="center">CSE Student @ GITAM University · Class of 2027 · Aspiring Software Engineer · Open to SDE, Data Analyst & AI/ML Roles</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mantu-kumar-28311a308"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/u/GV2023006731/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://mantu-portfolio-eight.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:mantukumar787084@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -76,4 +75,4 @@ I practice Data Structures and Algorithms regularly on **[LeetCode](https://leet
 
 ## 🤝 Connect With Me
 
-📧 mantukumar787084@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/mantu-kumar-28311a308) &nbsp;|&nbsp; 🧠 [LeetCode](https://leetcode.com/u/GV2023006731/) &nbsp;|&nbsp; 🌐 [Portfolio](https://mantu-portfolio-eight.vercel.app)
+📧 mantukumar787084@gmail.com &nbsp;|&nbsp; 🧠 [LeetCode](https://leetcode.com/u/GV2023006731/) &nbsp;|&nbsp; 🌐 [Portfolio](https://mantu-portfolio-eight.vercel.app)
